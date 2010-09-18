@@ -128,7 +128,7 @@ ulimit -Hn 65536
 ulimit -Sn 65536
 #################################
 
-export OPEN_CALAIS_KEY=9t8nv6pjs334dbn9448b3r5
+export OPEN_CALAIS_KEY=
 
 export XML_CATALOG_FILES="/opt/local/etc/xml/catalog"
 
